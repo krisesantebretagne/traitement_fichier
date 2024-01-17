@@ -1,0 +1,27 @@
+{
+  "name": "traitement_fichier",
+  "version": "1.0.0",
+  "description": "Pour traiter des fichiers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krisesantebretagne/traitement_fichier.git"
+  },
+  "author": "Krisandra Adams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krisesantebretagne/traitement_fichier/issues"
+  },
+  "homepage": "https://github.com/krisesantebretagne/traitement_fichier#readme",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.19.0",
+    "@typescript-eslint/parser": "^6.19.0",
+    "eslint": "^8.56.0"
+  }
+}
